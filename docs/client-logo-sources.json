@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Совкомбанк",
+    "asset": "/clients/sovcombank.png",
+    "source": "https://nn.wowquiz.ru/img/swiper-partnership/5.png",
+    "note": "Original downloaded asset; no generated wordmark"
+  },
+  {
+    "name": "Уралсиббанк",
+    "asset": "/clients/uralsib.svg",
+    "source": "https://www.uralsib.ru/",
+    "note": "Original downloaded asset; no generated wordmark"
+  },
+  {
+    "name": "Неофарм",
+    "asset": "/clients/neopharm.jpg",
+    "source": "https://companies.rbc.ru/trademark/615030/neofarm-neo-farm-neof/",
+    "note": "Original downloaded asset; no generated wordmark"
+  },
+  {
+    "name": "Максима Телеком",
+    "asset": "/clients/maxima.png",
+    "source": "https://maximatelecom.ru/img/logo-maxima-new@2x.png",
+    "note": "Original downloaded asset; no generated wordmark"
+  },
+  {
+    "name": "Совкомфлот",
+    "asset": "/clients/sovcomflot.svg",
+    "source": "https://www.sovcomflot.ru/bitrix/templates/scf-main/images/logo.svg",
+    "note": "Original downloaded asset; no generated wordmark"
+  },
+  {
+    "name": "Примафарм",
+    "asset": "/clients/primapharm.svg",
+    "source": "https://primapharm.ru/images/logo-svg/logo-blue.svg",
+    "note": "Original downloaded asset; no generated wordmark"
+  },
+  {
+    "name": "Сити 21",
+    "asset": "/clients/city21.svg",
+    "source": "https://city21.ru/img/svg/logo.svg",
+    "note": "Original downloaded asset; no generated wordmark"
+  },
+  {
+    "name": "Банк Нацстандарт",
+    "asset": "/clients/national-standard.png",
+    "source": "https://www.ns-bank.ru/img/img2/logo2.png",
+    "note": "Original transparent brand asset, displayed in contrasting monochrome using CSS brightness(0)."
+  },
+  {
+    "name": "Фаберлик",
+    "asset": "/clients/faberlic.webp",
+    "source": "https://labsiz.ru/upload/iblock/314/5dncalykh9hsssfpwnh6g2wfjlblmzug.webp",
+    "note": "Downloaded original logo; raster assets trimmed/resized; no generated wordmarks"
+  },
+  {
+    "name": "MoTEX",
+    "asset": "/clients/motex.webp",
+    "source": "https://motex.com.ru/bitrix/templates/aspro_next/images/logo.jpg",
+    "note": "Downloaded original logo; raster assets trimmed/resized; no generated wordmarks"
+  },
+  {
+    "name": "Компас",
+    "asset": "/clients/kompas.webp",
+    "source": "https://kompas.ru/images/logo-2017m.png",
+    "note": "Downloaded original logo; raster assets trimmed/resized; no generated wordmarks"
+  },
+  {
+    "name": "Росинкасс",
+    "asset": "/clients/rosinkas.webp",
+    "source": "https://static.tildacdn.com/tild6533-6331-4061-b537-363466363639/logo_2_2_2.svg",
+    "note": "Downloaded original logo; raster assets trimmed/resized; no generated wordmarks"
+  },
+  {
+    "name": "Газпромавтолизинг",
+    "asset": "/clients/gazprom-auto.webp",
+    "source": "https://enisey-m.ru/upload/iblock/b4c/57dun25pgf9akem65plkuiiln58lrql5/maxresdefault.jpg",
+    "note": "Downloaded original logo; raster assets trimmed/resized; no generated wordmarks"
+  },
+  {
+    "name": "Алефбанк",
+    "asset": "/clients/alef.svg",
+    "source": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/5bb4f768245bc22a520a614f.svg",
+    "note": "Downloaded original logo; raster assets trimmed/resized; no generated wordmarks"
+  },
+  {
+    "name": "Луч",
+    "asset": "/clients/luch.svg",
+    "source": "https://xn----stbeziy.xn--p1ai/",
+    "note": "Downloaded original logo; raster assets trimmed/resized; no generated wordmarks"
+  },
+  {
+    "name": "НСПК",
+    "asset": "/clients/nspk.webp",
+    "source": "https://www.ph4.ru/DL/LOGO/n/nspk.gif",
+    "note": "Downloaded original logo; raster assets trimmed/resized; no generated wordmarks"
+  },
+  {
+    "name": "Глобалфудс",
+    "asset": "/clients/globalfoods.svg",
+    "source": "https://www.globalfoods.ru/local/templates/.default/assets/img/logo.svg",
+    "note": "Downloaded original logo; raster assets trimmed/resized; no generated wordmarks"
+  }
+]
