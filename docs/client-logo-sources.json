@@ -83,25 +83,13 @@
     "source": "https://motexc.ru/"
   },
   {
-    "name": "Компас (Аудитор Столицы)",
-    "asset": null,
-    "source": "https://www.auditorst.ru/",
-    "inn": "7743809179",
-    "note": "Логотип с сайта недоступен. Используем название компании."
-  },
-  {
     "name": "Алеф-Банк",
     "asset": "/clients/alefbank-official.svg",
     "source": "https://alefbank.ru/i/logo.svg"
   },
   {
-    "name": "Red Bull",
-    "asset": "/clients/red-bull.webp",
-    "source": "https://pressboxseattle.com/__l5e/assets-v1/66421eac-f62c-48d4-b00d-64b6cbc0056e/red-bull.png"
-  },
-  {
     "name": "ДНКОМ",
-    "asset": "/clients/dnkom.webp",
-    "source": "https://dnkom.ru/upload/iblock/8c3/8c3ac3c0f7fc214d6f92995f88c83b73.pdf"
+    "asset": "/clients/dnkom-logo.webp",
+    "source": "https://cdn.forbes.ru/forbes-static/new/2026/03/dnkom-logo-69a568f013522.png"
   }
 ]
