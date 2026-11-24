@@ -54,18 +54,6 @@
     "note": "Downloaded original logo; raster assets trimmed/resized; no generated wordmarks"
   },
   {
-    "name": "MoTEX",
-    "asset": "/clients/motex.webp",
-    "source": "https://motex.com.ru/bitrix/templates/aspro_next/images/logo.jpg",
-    "note": "Downloaded original logo; raster assets trimmed/resized; no generated wordmarks"
-  },
-  {
-    "name": "Компас",
-    "asset": "/clients/kompas.webp",
-    "source": "https://kompas.ru/images/logo-2017m.png",
-    "note": "Downloaded original logo; raster assets trimmed/resized; no generated wordmarks"
-  },
-  {
     "name": "Росинкасс",
     "asset": "/clients/rosinkas.webp",
     "source": "https://static.tildacdn.com/tild6533-6331-4061-b537-363466363639/logo_2_2_2.svg",
@@ -75,18 +63,6 @@
     "name": "Газпромавтолизинг",
     "asset": "/clients/gazprom-auto.webp",
     "source": "https://enisey-m.ru/upload/iblock/b4c/57dun25pgf9akem65plkuiiln58lrql5/maxresdefault.jpg",
-    "note": "Downloaded original logo; raster assets trimmed/resized; no generated wordmarks"
-  },
-  {
-    "name": "Алефбанк",
-    "asset": "/clients/alef.svg",
-    "source": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/5bb4f768245bc22a520a614f.svg",
-    "note": "Downloaded original logo; raster assets trimmed/resized; no generated wordmarks"
-  },
-  {
-    "name": "Луч",
-    "asset": "/clients/luch.svg",
-    "source": "https://xn----stbeziy.xn--p1ai/",
     "note": "Downloaded original logo; raster assets trimmed/resized; no generated wordmarks"
   },
   {
@@ -100,5 +76,32 @@
     "asset": "/clients/globalfoods.svg",
     "source": "https://www.globalfoods.ru/local/templates/.default/assets/img/logo.svg",
     "note": "Downloaded original logo; raster assets trimmed/resized; no generated wordmarks"
+  },
+  {
+    "name": "МоТехС-РУС",
+    "asset": "/clients/motexc-rus.webp",
+    "source": "https://motexc.ru/"
+  },
+  {
+    "name": "Компас (Аудитор Столицы)",
+    "asset": null,
+    "source": "https://www.auditorst.ru/",
+    "inn": "7743809179",
+    "note": "Логотип с сайта недоступен. Используем название компании."
+  },
+  {
+    "name": "Алеф-Банк",
+    "asset": "/clients/alefbank-official.svg",
+    "source": "https://alefbank.ru/i/logo.svg"
+  },
+  {
+    "name": "Red Bull",
+    "asset": "/clients/red-bull.webp",
+    "source": "https://pressboxseattle.com/__l5e/assets-v1/66421eac-f62c-48d4-b00d-64b6cbc0056e/red-bull.png"
+  },
+  {
+    "name": "ДНКОМ",
+    "asset": "/clients/dnkom.webp",
+    "source": "https://dnkom.ru/upload/iblock/8c3/8c3ac3c0f7fc214d6f92995f88c83b73.pdf"
   }
 ]
