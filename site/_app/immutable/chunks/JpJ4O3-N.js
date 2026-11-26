@@ -31,7 +31,7 @@ const e=({status:n,message:t})=>`<!doctype html>
       .status {
         color: #0061d5;
         font-weight: 700;
-        font-size: 13px;
+        font-size: 16px;
       }
       a {
         display: inline-block;
