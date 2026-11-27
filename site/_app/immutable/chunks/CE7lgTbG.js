@@ -4,7 +4,7 @@ const e=({status:n,message:t})=>`<!doctype html>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta name="robots" content="noindex,follow" />
-    <title>`+n+` — Офис Партнер</title>
+    <title>`+n+` — Аура</title>
     <style>
       body {
         font:
@@ -50,7 +50,7 @@ const e=({status:n,message:t})=>`<!doctype html>
   </head>
   <body>
     <main>
-      <span class="status">Офис Партнер · `+n+`</span>
+      <span class="status">Аура · `+n+`</span>
       <h1>Временно не можем открыть страницу</h1>
       <p>`+t+`</p>
       <p>Попробуйте обновить страницу немного позже.</p>
